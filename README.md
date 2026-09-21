@@ -24,8 +24,6 @@ API credentials will remain on the backend and will not be exposed in the deskto
 
 Kova is currently license-protected. Visitors can view the login page, while application access requires a valid license.
 
-Website: https://ark-pve-lab-dominik.szoke-dominik-th.chatgpt.site
-
 Screenshots or a demonstration can be provided upon request.
 
 ## Project status
